@@ -124,3 +124,6 @@ se muestra que los servicios fueron creados correctamente en la plataforma de aw
 demostracion de que se deniega el acceso a otros archivos fuente del proyecto, solamente dejando ver lo que les permitimos ver.
 
 ![alt text](<Captura de pantalla 2026-10-06 175206.png>)
+
+se almacenaron correctamente los metadatos dentro de la base de datos dynamodb.
+![alt text](<Captura de pantalla 2026-10-06 175416.png>)
