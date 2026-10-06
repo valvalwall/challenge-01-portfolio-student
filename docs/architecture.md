@@ -125,5 +125,5 @@ demostracion de que se deniega el acceso a otros archivos fuente del proyecto, s
 
 ![alt text](<Captura de pantalla 2026-10-06 175206.png>)
 
-se almacenaron correctamente los metadatos dentro de la base de datos dynamodb.
+se almacenaron correctamente los metadatos dentro de la base de datos dynamodb..
 ![alt text](<Captura de pantalla 2026-10-06 175416.png>)
